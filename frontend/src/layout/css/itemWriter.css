@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Myeongjo&display=swap');
+
+#abc{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#sell_content {
+    width: 1000px;
+    height: 400px;
+    white-space: pre-line;
+}
+
+#sell_category {
+    width: 200px;
+    float: right;
+}
+
+.Nanum {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 25px;
+}
+.Jua {
+    font-family: 'Jua', sans-serif;
+    font-size: 25px;
+}

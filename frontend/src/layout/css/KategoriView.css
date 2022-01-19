@@ -1,0 +1,27 @@
+.listWrap {
+    font-size: 30px;
+    border-right: 1px solid black;
+    height: 600px;
+}
+
+.listWrap :focus {
+    background-color: #DCDCDC;
+    animation: slidebg 5s linear infinite;
+}
+
+.listWrap :hover {
+    border-bottom: 2px solid red;
+    animation: slidebg 5s linear infinite;
+}
+
+.Kategori_Item_Wrap {
+    font-size: 20px;
+    width: auto;
+    height: auto;
+}
+
+@keyframes slidebg {
+    to {
+      background-position:20vw;
+    }
+  }

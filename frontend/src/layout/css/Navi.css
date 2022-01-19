@@ -1,0 +1,6 @@
+.navi_a_tag :hover
+{
+    background-color: #E6E6FA;
+    border-bottom: 5px solid violet;
+    margin: -5px -5px -5px -5px;
+}

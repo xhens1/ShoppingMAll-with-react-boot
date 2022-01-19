@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MallApplication",
+            "request": "launch",
+            "mainClass": "com.horkov.mall.MallApplication",
+            "projectName": "mall"
+        }
+    ]
+}

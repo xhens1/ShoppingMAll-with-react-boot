@@ -1,0 +1,9 @@
+.loginComponents{
+    width: 100%;
+    height: 50px;
+    background: white;
+    border: none;
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+}

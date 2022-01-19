@@ -1,0 +1,19 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "58.124.101.48",
+            "port": 3030,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "horkov",
+            "group": "horkov",
+            "database": "mall",
+            "username": "horkov"
+        }
+    ]
+}
